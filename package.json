@@ -1,0 +1,11 @@
+{
+	"name" : "NoDeysAhead",
+	"description" : "An independently developed Node.JS server to provide auxiliary support for applications related to Cataclysm: Dark Days Ahead",
+	"author" : "TenthSpeedWriter",
+	"dependencies" : {
+		"express" : "4.*",
+		"mongodb" : "*",
+		"debug"   : "*",
+		"http"    : "*"
+	}
+}
